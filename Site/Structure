@@ -1,0 +1,22 @@
+/project_root
+│
+├── /public               
+│   ├── /css              
+│   ├── /js               
+│   ├── index.php         
+│   ├── learnmore.php     
+│   ├── documentation.php 
+│   ├── login.php
+│   └── signup.php
+│
+├── /private              
+│   ├── db.php            
+│   ├── login_logic.php   
+│   ├── signup_logic.php  
+│   └── auth.php          
+│
+├── /Partials
+│    ├── Sizes.css  
+│    └── standard.php
+│   
+│   
